@@ -1,0 +1,13 @@
+﻿  WiCE.cpp
+  bitboard.cpp
+  board.cpp
+  evaluate.cpp
+  hash.cpp
+  move.cpp
+  perft.cpp
+  poly.cpp
+  protocols.cpp
+  pvt.cpp
+  search.cpp
+  Generating Code...
+  WiCE Win.vcxproj -> C:\Users\Oso\Documents\WiCE Win\Debug\WiCE Win.exe

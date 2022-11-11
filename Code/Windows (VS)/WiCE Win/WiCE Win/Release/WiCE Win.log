@@ -1,0 +1,16 @@
+﻿  bitboard.cpp
+  board.cpp
+  evaluate.cpp
+  hash.cpp
+  move.cpp
+  perft.cpp
+  poly.cpp
+  protocols.cpp
+  pvt.cpp
+  search.cpp
+  WiCE.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 230 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WiCE Win.vcxproj -> C:\Users\Oso\Documents\WiCE Win\Release\WiCE Win.exe
